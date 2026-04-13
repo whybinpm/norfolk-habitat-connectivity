@@ -25,4 +25,3 @@ realistically be created?
 ## Definition of done
 - Web map published
 - Methodology write-up complete
-- Python script uploaded
