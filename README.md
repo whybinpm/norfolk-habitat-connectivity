@@ -1,4 +1,4 @@
-# Project name
+# Project
 Norfolk Habitat Fragmentation Analysis
 
 ## Problem statement
