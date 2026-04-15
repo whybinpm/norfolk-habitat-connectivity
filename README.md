@@ -9,7 +9,6 @@ realistically be created?
 ## Data sources
 - Natural England Priority Habitat Inventory
 - SSSI boundaries (Natural England open data)
-- OS MasterMap greenspace layer
 
 ## Workflow
 1. Download and load datasets into QGIS
@@ -25,4 +24,3 @@ realistically be created?
 ## Definition of done
 - Web map published
 - Methodology write-up complete
-- Python script uploaded
