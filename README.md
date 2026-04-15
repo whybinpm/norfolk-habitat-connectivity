@@ -1,5 +1,5 @@
 # Project
-Norfolk Habitat Fragmentation Analysis
+North Norfolk Habitat Fragmentation Analysis
 
 ## Problem statement
 Where are the fragmentation gaps between priority habitat 
