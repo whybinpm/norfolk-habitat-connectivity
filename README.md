@@ -7,7 +7,7 @@ sites in north Norfolk, and where could wildlife corridors
 realistically be created?
 
 ## Data sources
-- Natural England Priority Habitat Inventory
+- Natural England Priority Habitat Inventory (PHI)
 - SSSI boundaries (Natural England open data)
 
 ## Workflow
