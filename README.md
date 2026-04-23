@@ -58,25 +58,11 @@ The proximity raster was exported as a styled PNG from QGIS and georeferenced
 using bounds converted from Web Mercator via PyProj. The map was published 
 via GitHub Pages.
 
-## Key findings
-- North Norfolk's coastal strip contains dense SSSI coverage with strong 
-  habitat connectivity, particularly around Wells-next-the-Sea, Cley, and 
-  the Broads fringe.
-- Significant fragmentation gaps exist in the interior of the district, 
-  particularly in the Aylsham corridor and areas south of the coastal strip, 
-  where distances between SSSIs exceed several kilometres.
-- Priority habitats including deciduous woodland, lowland fens, and coastal 
-  and floodplain grazing marsh are distributed across the district but are 
-  concentrated along watercourses and the coast.
-- Potential corridor link zones align broadly with ACB areas identified in 
-  the Norfolk LNRS, suggesting opportunities for targeted habitat creation 
-  in the fragmentation gap zones identified by this analysis.
-
 ## Limitations
 - Euclidean distance analysis measures straight-line distance only and does 
   not account for land use, terrain, or barriers such as roads and urban areas. 
   A cost surface analysis would provide a more ecologically realistic model of 
-  connectivity (planned for project 2).
+  connectivity.
 - The Priority Habitat Inventory may contain classification errors or outdated 
   boundaries in some areas.
 - Species-specific dispersal distances have not been modelled — the analysis 
@@ -88,5 +74,3 @@ via GitHub Pages.
 - QGIS 3.x — spatial analysis, raster processing, data preparation
 - Python 3.10 — GeoPandas, Folium, Rasterio, PyProj
 - GitHub Pages — web map hosting
-
-## Project structure
